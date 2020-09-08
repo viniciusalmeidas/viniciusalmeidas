@@ -12,4 +12,4 @@
 I create ideas in Python, JavaScript by building web apps with React and mobile-apps using React-Native that aren't just beautiful, but are enjoyable to use and really problem-solvers. 
 A clean and understandable code.
 
-![101776725-Unknown](https://user-images.githubusercontent.com/39459689/92426350-10d88080-f160-11ea-9a68-c12c142aedbb.jpeg)
+![dilbert13](https://user-images.githubusercontent.com/39459689/92426669-ed620580-f160-11ea-899a-083b1ec578fb.jpg)
