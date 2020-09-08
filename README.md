@@ -7,4 +7,5 @@
 
 
 I create ideas in Python, JavaScript by building apps that are enjoyable to use and really problem-solvers using a clean and understandable code.
+Give me challenges. 
 
