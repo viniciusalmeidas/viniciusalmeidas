@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/v.alma_br/)](https://www.instagram.com/v.alma_br/)
 
 
-<h3><b>Talk is cheap. Show me the code.</b><h3>
+<h3><b>Talk is cheap. Show me the code.</b></h3>
 
 
 I create ideas in Python, JavaScript by building web apps with React and mobile-apps using React-Native that aren't just beautiful, but are enjoyable to use and really problem-solvers. 
