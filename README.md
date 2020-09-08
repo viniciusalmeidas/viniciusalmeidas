@@ -2,12 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:v.almsou@uol.com.br)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/v.alma_br/)](https://www.instagram.com/v.alma_br/)
 
-### .
-
-> _"Coming together is a beginning,
-> staying together is progress,
-> and working together is **sucess.**"_ - H. Ford
-
+###Talk is cheap. Show me the code. .
 
 I create ideas in Python, JavaScript by building web apps with React and mobile-apps using React-Native that aren't just beautiful, but are enjoyable to use and really problem-solvers. 
 A clean and understandable code.
