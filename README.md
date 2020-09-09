@@ -1,6 +1,6 @@
 <a href="" target=""><img src=" "> </a>
 
-<img src="https://www.linkedin.com/in/valmsou/" alt="LinkedIn" onclick="window.open('https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/', '_blank');" />
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/'" alt="https://www.linkedin.com/in/valmsou/" onclick="window.open('', '_blank');" />
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:v.almsou@uol.com.br)
