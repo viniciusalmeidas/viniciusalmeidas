@@ -6,6 +6,6 @@
 <h3><b>Talk is cheap. Show me the code.</b></h3>
 
 
-I create ideas in Python, JavaScript by building apps that are enjoyable to use and really problem-solvers using a clean and understandable code.
+I create ideas in Python, building apps that are enjoyable to use and really problem-solvers using a clean and understandable code.
 Give me challenges. 
 
