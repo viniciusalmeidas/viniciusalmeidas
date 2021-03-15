@@ -10,12 +10,12 @@ I create ideas in Python, building apps that are enjoyable to use and really pro
 Give me challenges. 
 <br>
 
-:earth_asia  
+:earth_asia:  
 Thanks for your collaboration.
 
 > _"Coming together is a beginning,
 > staying together is progress,
-> and working together is **sucess.**"_ - H. Ford :earth_asia
+> and working together is **sucess.**"_ - H. Ford :earth_asia:
 <br>
 
 <h3><b> Buy Me A Coffee! :coffee:</b></h3>
