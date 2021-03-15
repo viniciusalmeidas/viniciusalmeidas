@@ -17,7 +17,7 @@ Thanks for your collaboration.You're <b>free</b> to redistribute copies and bene
 > and working together is **sucess.**"_ - H. Ford :earth_asia:
 <br>
 
-<h3><b> [__Buy me a coffee! :coffee:__](https://www.buymeacoffee.com/vinialmeida) :coffee:</b></h3>
+### [__Buy me a coffee! :coffee:__](https://www.buymeacoffee.com/vinialmeida)
 
 As some of you may already know, any of you can contribute buying the developer a coffee.
 
