@@ -10,7 +10,7 @@ I create ideas in Python, building apps that are enjoyable to use and really pro
 Give me challenges. 
 
 
-<h2><b> Buy Me A Coffee! :coffee:</b></h2>
+<h4><b> Buy Me A Coffee! :coffee:</b></h4>
 
 As some of you may already know, any of you can contribute buying the developer a coffee.
 
