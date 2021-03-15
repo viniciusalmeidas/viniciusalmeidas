@@ -3,14 +3,14 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/v.alma_br/)](https://www.instagram.com/v.alma_br/)
 
 
-<h3><b>Talk is cheap. Show me the code.</b></h3>
+# Talk is cheap. Show me the code.
 
 
 I create ideas in Python, building apps that are enjoyable to use and really problem-solvers using a clean and understandable code.
 Give me challenges. 
 
 
-# Buy Me A Coffee! :coffee:
+<h2><b> Buy Me A Coffee! :coffee:</b></h2>
 
 As some of you may already know, any of you can contribute buying the developer a coffee.
 
