@@ -9,8 +9,10 @@
 I create ideas in Python, building apps that are enjoyable to use and really problem-solvers using a clean and understandable code.
 Give me challenges. 
 
-
-<h4><b> Buy Me A Coffee! :coffee:</b></h4>
+<br>
+<br>
+<br>
+<h3><b> Buy Me A Coffee! :coffee:</b></h3>
 
 As some of you may already know, any of you can contribute buying the developer a coffee.
 
