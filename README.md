@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/v.alma_br/)](https://www.instagram.com/v.alma_br/)
 
 
-# Talk is cheap. Show me the code.
+# Talk is cheap. Show me the code. You're <b>free</b> to redistribute copies and benefit people.
 
 
 I create ideas in Python, building apps that are enjoyable to use and really problem-solvers using a clean and understandable code.
