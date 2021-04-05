@@ -24,3 +24,4 @@ As some of you may already know, any of you can contribute buying the developer 
 If you can contribute or you want to, feel free to do it at [__Buy me a coffee! :coffee:__](https://www.buymeacoffee.com/vinialmeida), I will be really thankfull for anything even if it is a coffee or just a kind comment towards my work, because that helps me a lot.
 
 ### It is just a free choice for you. !
+
